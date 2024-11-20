@@ -1,3 +1,3 @@
 <tt>
-%lt;?xml version='1.0' encoding='UTF-8'?%gt;
+<?xml version='1.0' encoding='UTF-8'?>
 </tt>
