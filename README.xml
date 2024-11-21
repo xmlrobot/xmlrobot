@@ -1,1 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<org.xmlrobot>
+  <name>common</name>
+  <org.xmlrobot>
+    <name>core</name>
+    <org.xmlrobot>
+      <name>lang</name>
+      <org.xmlrobot>
+        <name>time</name>
+        <org.xmlrobot>
+          <name>program</name>
+          <org.xmlrobot>
+            
+          </org.xmlrobot>
+        </org.xmlrobot>
+      </org.xmlrobot>
+    </org.xmlrobot>
+  </org.xmlrobot>
+</org.xmlrobot>
