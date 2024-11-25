@@ -15,7 +15,7 @@
   projects. It sets project-inherited properties like Java
   version, dependency versions, or custom variables to main-
   tain order. Instead of duplicating configurations across
-  multiple projects, these are maintained centrally in the
+  multiple projects, these are maintained inherently in the
   parent POM.</value>
   <org.xmlrobot>
     <name>common</name>
