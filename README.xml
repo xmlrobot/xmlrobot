@@ -6,7 +6,7 @@
   implementation centralizes configuration, dependencies,
   and properties that are inherited across complex POM sub-
   projects (frequently referred to as "child projects" or
-  "modules"). The parent	project contains a complex pom.xml
+  "modules"). The parent project contains a complex pom.xml
   file that sets settings, dependency ordering, plugins, and
   other configurations that will be inherited by all child
   projects. It sets project-inherited properties like Java
