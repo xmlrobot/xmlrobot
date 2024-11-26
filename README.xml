@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <org.xmlrobot xmlns="http://xmlrobot.org/github/readme">
   <name>org.xmlrobot.parent</name>
-  <key>The parent project is the foundation for a suite of
+  <key>org.xmlrobot is the foundation for a suite of
   related XML-based tools or libraries to build a future
   Extensible Operative System (EOS).</key>
   <value>The parent project is a structured Maven Parent Project,
