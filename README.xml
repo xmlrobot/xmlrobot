@@ -17,31 +17,34 @@
   tain order. Instead of duplicating configurations across
   multiple projects, these are maintained inherently in the
   parent POM.</value>
-  <org.xmlrobot>
+  <entry>
     <name>common</name>
     <key></key>
     <value></value>
-    <org.xmlrobot>
+    <entry>
       <name>core</name>
       <key></key>
       <value></value>
-      <org.xmlrobot>
+      <entry>
         <name>lang</name>
         <key></key>
         <value></value>
-        <org.xmlrobot>
+        <entry>
           <name>time</name>
           <key></key>
           <value></value>
-          <org.xmlrobot>
-            <name>aaron</name>
-            <org.xmlrobot>
+          <entry>
+            <name>space</name>
+            <key></key>
+            <value></value>
+            <entry>
+              <name>aaron</name>
               <key></key>
               <value></value>
-            </org.xmlrobot>
-          </org.xmlrobot>
-        </org.xmlrobot>
-      </org.xmlrobot>
-    </org.xmlrobot>
-  </org.xmlrobot>
+            </entry>
+          </entry>
+        </entry>
+      </entry>
+    </entry>
+  </entry>
 </org.xmlrobot>
