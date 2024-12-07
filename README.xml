@@ -22,27 +22,39 @@
   <entry>
     <name>common</name>
     <key></key>
-    <value>/xmlrobot/common</value>
+    <value url="https://github.com/xmlrobot/common">
+      /xmlrobot/common
+    </value>
     <entry>
       <name>core</name>
       <key></key>
-      <value>/xmlrobot/core</value>
+      <value url="https://github.com/xmlrobot/core">
+        /xmlrobot/core
+      </value>
       <entry>
         <name>lang</name>
         <key></key>
-        <value>/xmlrobot/lang</value>
+        <value url="https://github.com/xmlrobot/core">
+          /xmlrobot/lang
+        </value>
         <entry>
           <name>time</name>
           <key></key>
-          <value>/xmlrobot/time</value>
+          <value url="https://github.com/xmlrobot/time">
+            /xmlrobot/time
+          </value>
           <entry>
             <name>space</name>
             <key></key>
-            <value>/xmlrobot/space</value>
+            <value url="https://github.com/xmlrobot/space">
+              /xmlrobot/space
+            </value>
             <entry>
               <name>aaron</name>
               <key></key>
-              <value>/xmlrobot/aaron</value>
+              <value url="https://github.com/xmlrobot/aaron">
+                /xmlrobot/aaron
+              </value>
             </entry>
           </entry>
         </entry>
