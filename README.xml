@@ -1,4 +1,5 @@
 <?xml encoding='UTF-8'?>
+<a href="http://xmlrobot.org/github/readme">parent</a>
 <org.xmlrobot xmlns="http://xmlrobot.org/github/readme">
   <name xmlns="http://xmlrobot.org/github/readme">org.xmlrobot.parent</name>
   <key>The parent project is the foundation for a suite of
@@ -17,8 +18,7 @@
   tain order. Instead of duplicating configurations across
   multiple projects, these are maintained inherently in the
   parent POM.</key>
-  <org.xmlrobot xmlns="http://xmlrobot.org/github/readme"/>
-  <value><a href="http://xmlrobot.org/github/readme">parent</a></value>
+  <value></value>
   <entry>
     <name>org.xmlrobot.common</name>
     <key></key>
