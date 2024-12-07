@@ -17,8 +17,8 @@
   tain order. Instead of duplicating configurations across
   multiple projects, these are maintained inherently in the
   parent POM.</key>
-  <org.xmlrobot xmlns="http://xmlrobot.org/github/readme">
-  </org.xmlrobot>
+  <entry xmlns="http://xmlrobot.org/github/readme">
+  </entry>
   <entry>
     <name>common</name>
     <key></key>
