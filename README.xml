@@ -1,8 +1,8 @@
 <?xml encoding='UTF-8'?>
-<org.xmlrobot>
+<org.xmlrobot xmlns="http://xmlrobot.org/github/readme">
   <name>parent</name>
   <key></key>
-  <value url="https://github.com/xmlrobot/parent"></value>
+  <value>/xmlrobot/parent</value>
   <entry>
     
   </entry>
