@@ -1,9 +1,51 @@
 <?xml encoding='UTF-8'?>
 <org.xmlrobot xmlns="http://xmlrobot.org/github/readme">
   <name>parent</name>
-  <key></key>
-  <value>url https://github.com/xmlrobot/parent</value>
+  <key>The parent project is the foundation for a suite of
+  related XML-based tools or libraries to build a future
+  Extensible Operative System (EOS).
+  The parent project is a structured Maven Parent Project,
+  a frequently XML programming order in Maven builds. This
+  implementation centralizes configuration, dependencies,
+  and properties that are inherited across complex POM child
+  projects (frequently referred to as sub-projects or
+  "modules"). The parent project contains a complex pom.xml
+  file that sets settings, dependency ordering, plugins, and
+  other configurations that will be inherited by all child
+  projects. It sets project-inherited properties like Java
+  version, dependency versions, or custom variables to main-
+  tain order. Instead of duplicating configurations across
+  multiple projects, these are maintained inherently in the
+  parent POM.</key>
+  <org.xmlrobot xmlns="http://xmlrobot.org/github/readme"></value>
   <entry>
-    
+    <name>common</name>
+    <key></key>
+    <value>/xmlrobot/common</value>
+    <entry>
+      <name>core</name>
+      <key></key>
+      <value>/xmlrobot/core</value>
+      <entry>
+        <name>lang</name>
+        <key></key>
+        <value>/xmlrobot/lang</value>
+        <entry>
+          <name>time</name>
+          <key></key>
+          <value>/xmlrobot/time</value>
+          <entry>
+            <name>space</name>
+            <key></key>
+            <value>/xmlrobot/space</value>
+            <entry>
+              <name>aaron</name>
+              <key></key>
+              <value>/xmlrobot/aaron</value>
+            </entry>
+          </entry>
+        </entry>
+      </entry>
+    </entry>
   </entry>
 </org.xmlrobot>
