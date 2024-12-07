@@ -17,32 +17,31 @@
   tain order. Instead of duplicating configurations across
   multiple projects, these are maintained inherently in the
   parent POM.</key>
-  <url>https://github.com/xmlrobot/parent</url>
-  <value></value>
+  <value>https://github.com/xmlrobot/parent </value>
   <entry>
     <name>common</name>
     <key></key>
-    <value>https://github.com/xmlrobot/common</value>
+    <value>https://github.com/xmlrobot/common </value>
     <entry>
       <name>core</name>
       <key></key>
-      <value>https://github.com/xmlrobot/core</value>
+      <value>https://github.com/xmlrobot/core </value>
       <entry>
         <name>lang</name>
         <key></key>
-        <value>https://github.com/xmlrobot/lang</value>
+        <value>https://github.com/xmlrobot/lang </value>
         <entry>
           <name>time</name>
           <key></key>
-          <value>https://github.com/xmlrobot/time</value>
+          <value>https://github.com/xmlrobot/time </value>
           <entry>
             <name>space</name>
             <key></key>
-            <value>https://github.com/xmlrobot/space</value>
+            <value>https://github.com/xmlrobot/space </value>
             <entry>
               <name>aaron</name>
               <key></key>
-              <value>https://github.com/xmlrobot/aaron</value>
+              <value>https://github.com/xmlrobot/aaron </value>
             </entry>
           </entry>
         </entry>
