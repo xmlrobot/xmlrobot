@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<org.xmlrobot xmlns="http://xmlrobot.org/github/readme">
+<orgxmlrobot xmlns="http://xmlrobot.org/github/readme">
   <name>org.xmlrobot.parent</name>
   <key>The parent project is the foundation for a suite of
   related XML-based tools or libraries to build a future
@@ -41,11 +41,11 @@
             <entry>
               <name>aaron</name>
               <key></key>
-              <value>https://github.com/xmlrobot/aaron </value>
+              <value>https://github.com/xmlrobot/aaron</value>
             </entry>
           </entry>
         </entry>
       </entry>
     </entry>
   </entry>
-</org.xmlrobot>
+</orgxmlrobot>
