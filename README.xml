@@ -2,7 +2,7 @@
 <org.xmlrobot xmlns="http://xmlrobot.org/github/readme">
   <name xmlns="http://xmlrobot.org/github/readme">org.xmlrobot.parent</name>
   
-<org.xmlrobot xmlns="http://xmlrobot.org/github/readme">
+<org.xmlrobot xmlns="http://xmlrobot.org/github/readme">"http://xmlrobot.org/github/readme</org.xmlrobot>
   <key>The parent project is the foundation for a suite of
   related XML-based tools or libraries to build a future
   Extensible Operative System (EOS).
