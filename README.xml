@@ -18,6 +18,7 @@
   multiple projects, these are maintained inherently in the
   parent POM.</key>
   <org.xmlrobot xmlns="http://xmlrobot.org/github/readme">
+  </org.xmlrobot>
   <entry>
     <name>common</name>
     <key></key>
