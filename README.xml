@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<orgxmlrobot xmlns="http://xmlrobot.org/github/readme">
+<?xml encoding='UTF-8'?>
+<org.xmlrobot xmlns="http://xmlrobot.org/github/readme">
   <name>org.xmlrobot.parent</name>
   <key>The parent project is the foundation for a suite of
   related XML-based tools or libraries to build a future
@@ -19,33 +19,33 @@
   parent POM.</key>
   <value>https://github.com/xmlrobot/parent </value>
   <entry>
-    <name>common</name>
+    <name>org.xmlrobot.common</name>
     <key></key>
     <value>https://github.com/xmlrobot/common </value>
     <entry>
-      <name>core</name>
+      <name>org.xmlrobot.core</name>
       <key></key>
       <value>https://github.com/xmlrobot/core </value>
       <entry>
-        <name>lang</name>
+        <name>org.xmlrobot.lang</name>
         <key></key>
         <value>https://github.com/xmlrobot/lang </value>
         <entry>
-          <name>time</name>
+          <name>org.xmlrobot.time</name>
           <key></key>
           <value>https://github.com/xmlrobot/time </value>
           <entry>
-            <name>space</name>
+            <name>org.xmlrobot.space</name>
             <key></key>
             <value>https://github.com/xmlrobot/space </value>
             <entry>
-              <name>aaron</name>
+              <name>org.xmlrobot.aaron</name>
               <key></key>
-              <value>https://github.com/xmlrobot/aaron</value>
+              <value>https://github.com/xmlrobot/aaron </value>
             </entry>
           </entry>
         </entry>
       </entry>
     </entry>
   </entry>
-</orgxmlrobot>
+</org.xmlrobot>
